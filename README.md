@@ -5,4 +5,4 @@ Project Information:
 -Title: Odin Recipes
 -Date : 9 Feb 2024
 -About: Links between pages for different recipes
--Description: 
+-Description: Related links between pages in the website about recipes
